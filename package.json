@@ -1,0 +1,37 @@
+{
+    "name": "yipack-plugin-uniapp",
+    "version": "1.0.0",
+    "description": "yipack uniapp webpack plugin",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chenbimo/yipack-plugin-uniapp.git"
+    },
+    "keywords": [
+        "uniapp",
+        "webpack",
+        "plugin",
+        "yipack",
+        "yipack-cli"
+    ],
+    "author": "chensuiyi <bimostyle@qq.com>",
+    "license": "MIT",
+    "dependencies": {
+        "clear-module": "^4.1.1",
+        "execa": "^5.0.0",
+        "fast-glob": "^3.2.5",
+        "fs-extra": "^9.1.0"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^12.0.1",
+        "@commitlint/config-angular": "^12.0.1",
+        "conventional-changelog-cli": "^2.1.1",
+        "husky": "^5.1.3",
+        "lint-staged": "^10.5.4",
+        "prettier": "^2.2.1",
+        "micromatch": "^4.0.2"
+    }
+}
