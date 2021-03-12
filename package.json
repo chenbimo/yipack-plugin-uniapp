@@ -1,6 +1,6 @@
 {
     "name": "yipack-plugin-uniapp",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "yipack uniapp webpack plugin",
     "main": "index.js",
     "scripts": {
